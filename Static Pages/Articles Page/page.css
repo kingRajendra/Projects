@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.container1 {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading1 {
+    color: #ffffff;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: 100;
+    margin: 15px;
+}
+
+.description1 {
+    color: #ffffff;
+    font-size: 16px;
+    margin: 15px;
+}
+
+.card1 {
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 150px;
+    height: 120px;
+    margin: 10px;
+}
+
+.card-image1 {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    margin-top: 30px;
+
+}
+
+.title1 {
+    color: #1f2933;
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 100;
+    margin-top: 15px;
+}
+
+.container {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 36px;
+    font-family: "Roboto";
+    margin: 15px;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 10px;
+    font-family: "Roboto";
+    width: 120px;
+    height: 38px;
+    border-radius: 15px;
+    background-color: #225db0;
+    border-color: #225db0;
+    margin: 15px;
+    ;
+}
